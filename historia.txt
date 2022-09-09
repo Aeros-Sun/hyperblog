@@ -3,11 +3,11 @@ Esta es una historia
 33 años
  Anita platzi contribuye a este proyecto y tiene 90 anos 
  
-<<<<<<< HEAD
-=======
+
  Experimento 1
 
->>>>>>> 268e3ad (Exp 1)
+ Experimento 2
+ 
  Master 1
 
  Master 2
